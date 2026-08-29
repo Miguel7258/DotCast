@@ -1,7 +1,7 @@
 # ⚡ DotCast — Digital Signage System
 
 <p align="center">
-  <img src="public/admin/assets/logo.png" alt="DotCast Logo" width="120" onerror="this.style.display='none'"/>
+  <img src="DotCast-Portable\assets/logo.png" alt="DotCast Logo" width="120" onerror="this.style.display='none'"/>
   <br>
   <strong>Sistema Autónomo de Transmissão Multimédia em Rede Local</strong>
   <br>
