@@ -1,9 +1,4 @@
-<table>
-  <tr>
-    <td align="center" bgcolor="#05070A"><img src="DotCast.png" alt="Logótipo DotCast" height="96"></td>
-    <td align="center" bgcolor="#05070A"><img src="logo.png" alt="Logótipo DotBright Telecom" height="96"></td>
-  </tr>
-</table>
+<p align="center"><img src="DotCast.png" alt="Logótipo DotCast" height="96"></p>
 
 # DotCast
 
@@ -36,12 +31,12 @@ O DotCast para Windows consulta as Releases do GitHub quando o painel é iniciad
 
 As APKs Android são publicadas nesta página. Para atualizar uma aplicação Android, transfere a APK da nova versão e confirma a instalação no dispositivo. A publicação na Google Play não está configurada neste momento.
 
-## Segurança e distribuição
-
-Este repositório é público. Qualquer pessoa pode consultar esta página e descarregar o instalador Windows e as aplicações Android. O login e as proteções da aplicação controlam o acesso às funcionalidades do DotCast; não restringem a distribuição pública dos ficheiros.
-
-Este repositório contém a descrição do produto e os ficheiros de distribuição publicados nas Releases. O código-fonte do projeto não é publicado aqui.
-
 ## Suporte
 
 Para comunicar um problema, contacta o administrador do DotCast na tua empresa e indica a versão instalada, o dispositivo e os passos que reproduzem o problema.
+
+---
+
+<p align="center"><img src="logo.png" alt="Logótipo DotBright Telecom" height="96"></p>
+
+<p align="center"><strong>DotCast e DotBright são produtos reservados à DotBright Telecom e não se destinam à utilização pelo público geral.</strong></p>
