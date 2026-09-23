@@ -1,6 +1,4 @@
-<p align="center"><img src="DotCast.png" alt="Logótipo DotCast" height="96"></p>
-
-# DotCast
+<p align="left"><img src="DotCast.png" alt="Logótipo DotCast" height="144"></p>
 
 **Digital signage para Windows, Android e Android TV.** O DotCast permite gerir conteúdos e playlists num PC Windows e apresentá-los em ecrãs Android TV através da rede local. A aplicação Android serve de controlador móvel.
 
@@ -37,6 +35,6 @@ Para comunicar um problema, contacta o administrador do DotCast na tua empresa e
 
 ---
 
-<p align="center"><img src="logo.png" alt="Logótipo DotBright Telecom" height="96"></p>
+<p align="center"><img src="logo.png" alt="Logótipo DotBright Telecom" height="48"></p>
 
 <p align="center"><strong>DotCast e DotBright são produtos reservados à DotBright Telecom e não se destinam à utilização pelo público geral.</strong></p>
