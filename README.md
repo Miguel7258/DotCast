@@ -72,4 +72,4 @@ Para comunicar um problema, contacta o administrador do DotCast na tua empresa. 
 
 <p align="center"><img src="logo.png" alt="Logótipo DotBright Telecom" height="48"></p>
 
-<p align="center"><strong>DotCast e DotBright são produtos reservados à DotBright Telecom e não se destinam à utilização pelo público geral.</strong></p>
+<p align="center"><strong>DotCast e DotBright são produtos reservados à DotBright e não se destinam à utilização pelo público geral.</strong></p>
